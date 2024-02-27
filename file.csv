@@ -1,0 +1,5 @@
+id,name,price,image_path
+1,Product 1,20000,https://picsum.photos/id/1/400/300.jpg
+1,Product 1,25000,https://picsum.photos/id/1/400/300.jpg
+,Product 3,25000,https://picsum.photos/id/1/400/300.jpg
+2,Product 2,,https://picsum.photos/id/1/400/300.jpg
